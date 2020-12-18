@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyGameXNA.AICharacter" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQIAQAAAAAAAgAAAAAIAAQAAAAggQIQAgwIBQAEAAE=</HashCode>
+      <FileName>AICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.AIVectorsXNA" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgEAAEAAAAgaAAAAAAAAAEAAYAAAAAA=</HashCode>
+      <FileName>AIVectorsXNA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.AnimatedObj" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAoAAEQAAAAAAAAAAQoAEAAoEBAAAAAA=</HashCode>
+      <FileName>AnimatedObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Attack" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQACAAAAAgAAABAAABAgIAAAAAAAAAABCAAgAAgCAI=</HashCode>
+      <FileName>Attack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Background" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAiAoAIAAAAEAAAAHAAIAQAIQAkCBBBGAgIAAEAAAAE=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.BackRoundEffects" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACAAAAAAAABAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>BackRoundEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.BlockPoints" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAAAEAwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockPoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.BotLife" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAABAEA=</HashCode>
+      <FileName>BotLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Camera" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAgAAAAIgACAAJAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Character" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQAAAAQAAIAgAAACDoQAYBAAACAZAAAhwIBAIEAAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Colides" Collapsed="true">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYQAAAAAAAAAAAAAAABAAAAAAIACAAAAggAAAAAAAA=</HashCode>
+      <FileName>Colides.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Drawing" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAsIAAIYAAIACACAIAACAAAAABAAAAAA=</HashCode>
+      <FileName>Drawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Game1" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAFFEKgABAAwDIAQAQABAAAAiAQBwEAAAgaIIAAEU=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Gifts" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBQAAIAAEAAAABAAAAAIAAAAEEEAQAAAAggAAAABAAA=</HashCode>
+      <FileName>Gifts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.BotKeys" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhAcIACASDiQAgAQQABECAAAgAIIAAAIkAJrgGEwAE=</HashCode>
+      <FileName>KeyBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.GamerKeys" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhAcIACASDiQAgAQQABECAAAgAIIAAAIkAJrgGEwAE=</HashCode>
+      <FileName>KeyBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Baseinput" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAhAMIACASBCAAgAQQAAAAAAAgAAIAAAAkABAAEEAAA=</HashCode>
+      <FileName>KeyBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.MadCharacterLife" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAgAAAgBAAAAAAAAAAAAAAAAAAAoAACiYAE=</HashCode>
+      <FileName>MadCharacterLife.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Main" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACBAAAAgwEAAACAAAIAAAAAACAAAgAAAAAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Page" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAACAAAQEAAAAIAAEAAAAAAAAAAEIAAAAAgAAQA=</HashCode>
+      <FileName>Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.pixelCollision" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAggAAAAAAAAAAAAAAAAAAAQAAhAQAAAAAAAAM=</HashCode>
+      <FileName>pixelCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.PointPos" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>PointPos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Program" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.SoundsEffectsGame" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABQAIAAAAAAA=</HashCode>
+      <FileName>SoundsEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.Tools" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAQAAAAAAAAAAAAAAAJAEAAAACAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGameXNA.VectorsXNA" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAEAAEAAAAgaAAAAAAAAAEAAYAAAAAA=</HashCode>
+      <FileName>VectorsXNA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MyGameXNA.IFocus" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralTypes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MyGameXNA.atc" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Colides.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyGameXNA.States" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAQAAAAABgABAAAAQAQAAgEAABEAAjAAAAAgABI=</HashCode>
+      <FileName>GeneralTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyGameXNA.SoundsE" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SoundsEffects.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="MyGameXNA.SigUpdate" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralTypes.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MyGameXNA.SigDraw" Collapsed="true">
+    <Position X="4.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralTypes.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
