@@ -12,6 +12,7 @@ Final project at Hakfar Hayarok College
 
 Scope of study hours for final thesis 250 hours
 
+Link: https://www.youtube.com/watch?v=nqQI1lNexZM
 
 ![main](https://user-images.githubusercontent.com/72870423/131295491-44286ca4-fa8a-41c4-b60d-fef41b3dd2e2.png)
 ![ScreenShot39](https://user-images.githubusercontent.com/72870423/131295622-ebfe618a-0b35-4506-963c-1838f2eb0808.png)
