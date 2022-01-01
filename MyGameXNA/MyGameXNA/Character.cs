@@ -38,7 +38,7 @@ namespace MyGameXNA
         private List<AnimatedObj> CharacterAttacksToBotColid;
         bool AttackLorR = true;//true right false left
         float Attackx = 0, Attacky=0;
-        bool IfCanFire=true;//אם נלחץ S והגיע לסוף המסך
+        bool IfCanFire=true;
         bool IfCanMagicSpeed = true;
         V2 velocity; //מהירות
         Stopwatch stopWatch;
