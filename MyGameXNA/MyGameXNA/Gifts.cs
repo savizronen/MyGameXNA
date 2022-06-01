@@ -32,8 +32,8 @@ namespace MyGameXNA
         private AnimatedObj Life;
         private Random rand;
         private int limitXRight;
-        private V2 velocityPresent; //מהירות
-        private V2 velocityLife; //מהירות
+        private V2 velocityPresent; 
+        private V2 velocityLife; 
         private bool HasFailledPresent;
         private bool HasFailledLife;
         private int randNumber;
