@@ -36,7 +36,7 @@ namespace MyGameXNA
        private AnimatedObj bulletImage;
        private Stopwatch timer;
        private int EndActionTime;
-       private int timeAttack;// הזמן שבו המתקפה תימשך
+       private int timeAttack;
        /// <summary>
        /// 1.standingSteel
        /// 2.Move
