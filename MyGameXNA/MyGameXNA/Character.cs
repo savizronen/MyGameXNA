@@ -40,7 +40,7 @@ namespace MyGameXNA
         float Attackx = 0, Attacky=0;
         bool IfCanFire=true;
         bool IfCanMagicSpeed = true;
-        V2 velocity; //מהירות
+        V2 velocity; 
         Stopwatch stopWatch;
         Stopwatch stopWatchSound;
         bool beat = true;
